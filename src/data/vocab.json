@@ -1,0 +1,379 @@
+[
+	{
+		"id": 1,
+		"italian": { "word": "la parola" },
+		"english": { "word": "word" },
+		"german": { "article": "das", "word": "Wort" }
+	},
+	{
+		"id": 2,
+		"italian": { "word": "utile" },
+		"english": { "word": "useful" },
+		"german": { "article": null, "word": "nützlich" }
+	},
+	{
+		"id": 3,
+		"italian": { "word": "in classe" },
+		"english": { "word": "in class" },
+		"german": { "article": null, "word": "im Unterricht" }
+	},
+	{
+		"id": 4,
+		"italian": { "word": "la classe" },
+		"english": { "word": "class" },
+		"german": { "article": "die", "word": "Klasse" }
+	},
+	{
+		"id": 5,
+		"italian": { "word": "la studentessa" },
+		"english": { "word": "female student" },
+		"german": { "article": "die", "word": "Schülerin" }
+	},
+	{
+		"id": 6,
+		"italian": { "word": "lo studente" },
+		"english": { "word": "student" },
+		"german": { "article": "der", "word": "Student" }
+	},
+	{
+		"id": 7,
+		"italian": { "word": "la mappa" },
+		"english": { "word": "map" },
+		"german": { "article": "die", "word": "Landkarte" }
+	},
+	{
+		"id": 8,
+		"italian": { "word": "la lavagna" },
+		"english": { "word": "board" },
+		"german": { "article": "die", "word": "Tafel" }
+	},
+	{
+		"id": 9,
+		"italian": { "word": "l'insegnante" },
+		"english": { "word": "teacher" },
+		"german": { "article": "der", "word": "Lehrer" }
+	},
+	{
+		"id": 10,
+		"italian": { "word": "leggere" },
+		"english": { "word": "to read" },
+		"german": { "article": null, "word": "lesen" }
+	},
+	{
+		"id": 11,
+		"italian": { "word": "ascoltare" },
+		"english": { "word": "to listen" },
+		"german": { "article": null, "word": "hören" }
+	},
+	{
+		"id": 12,
+		"italian": { "word": "scrivere" },
+		"english": { "word": "to write" },
+		"german": { "article": null, "word": "schreiben" }
+	},
+	{
+		"id": 13,
+		"italian": { "word": "parlare" },
+		"english": { "word": "to speak" },
+		"german": { "article": null, "word": "sprechen" }
+	},
+	{
+		"id": 14,
+		"italian": { "word": "abbinare" },
+		"english": { "word": "to match" },
+		"german": { "article": null, "word": "verbinden" }
+	},
+	{
+		"id": 15,
+		"italian": { "word": "completare" },
+		"english": { "word": "to complete" },
+		"german": { "article": null, "word": "ergänzen" }
+	},
+	{
+		"id": 16,
+		"italian": { "word": "sottolineare" },
+		"english": { "word": "to underline" },
+		"german": { "article": null, "word": "unterstreichen" }
+	},
+	{
+		"id": 17,
+		"italian": { "word": "come si dice?" },
+		"english": { "word": "how do you say?" },
+		"german": { "article": null, "word": "wie sagt man?" }
+	},
+	{
+		"id": 18,
+		"italian": { "word": "si dice..." },
+		"english": { "word": "one says..." },
+		"german": { "article": null, "word": "man sagt..." }
+	},
+	{
+		"id": 19,
+		"italian": { "word": "dire" },
+		"english": { "word": "to say" },
+		"german": { "article": null, "word": "sagen" }
+	},
+	{
+		"id": 20,
+		"italian": { "word": "il libro" },
+		"english": { "word": "book" },
+		"german": { "article": "das", "word": "Buch" }
+	},
+
+	{
+		"id": 21,
+		"italian": { "word": "la lezione" },
+		"english": { "word": "lesson" },
+		"german": { "article": "die", "word": "Lektion" }
+	},
+	{
+		"id": 22,
+		"italian": { "word": "lettere e numeri" },
+		"english": { "word": "letters and numbers" },
+		"german": { "article": null, "word": "Buchstaben und Zahlen" }
+	},
+	{
+		"id": 23,
+		"italian": { "word": "la lettera" },
+		"english": { "word": "letter" },
+		"german": { "article": "der", "word": "Buchstabe" }
+	},
+	{
+		"id": 24,
+		"italian": { "word": "e" },
+		"english": { "word": "and" },
+		"german": { "article": null, "word": "und" }
+	},
+	{
+		"id": 25,
+		"italian": { "word": "il numero" },
+		"english": { "word": "number" },
+		"german": { "article": "die", "word": "Zahl" }
+	},
+	{
+		"id": 26,
+		"italian": { "word": "cominciare" },
+		"english": { "word": "to begin" },
+		"german": { "article": null, "word": "beginnen" }
+	},
+	{
+		"id": 27,
+		"italian": { "word": "la pizza" },
+		"english": { "word": "pizza" },
+		"german": { "article": "die", "word": "Pizza" }
+	},
+	{
+		"id": 28,
+		"italian": { "word": "l'alfabeto" },
+		"english": { "word": "alphabet" },
+		"german": { "article": "das", "word": "Alphabet" }
+	},
+
+	{
+		"id": 29,
+		"italian": { "word": "l'amore" },
+		"english": { "word": "love" },
+		"german": { "article": "die", "word": "Liebe" }
+	},
+	{
+		"id": 30,
+		"italian": { "word": "il bacio" },
+		"english": { "word": "kiss" },
+		"german": { "article": "der", "word": "Kuss" }
+	},
+	{
+		"id": 31,
+		"italian": { "word": "ciao" },
+		"english": { "word": "hello / bye" },
+		"german": { "article": null, "word": "hallo / tschüss" }
+	},
+	{
+		"id": 32,
+		"italian": { "word": "dieci" },
+		"english": { "word": "ten" },
+		"german": { "article": null, "word": "zehn" }
+	},
+	{
+		"id": 33,
+		"italian": { "word": "l'espresso" },
+		"english": { "word": "espresso" },
+		"german": { "article": "der", "word": "Espresso" }
+	},
+	{
+		"id": 34,
+		"italian": { "word": "Firenze" },
+		"english": { "word": "Florence" },
+		"german": { "article": null, "word": "Florenz" }
+	},
+	{
+		"id": 35,
+		"italian": { "word": "grazie" },
+		"english": { "word": "thank you" },
+		"german": { "article": null, "word": "danke" }
+	},
+	{
+		"id": 36,
+		"italian": { "word": "l'hotel" },
+		"english": { "word": "hotel" },
+		"german": { "article": "das", "word": "Hotel" }
+	},
+	{
+		"id": 37,
+		"italian": { "word": "l'Italia" },
+		"english": { "word": "Italy" },
+		"german": { "article": null, "word": "Italien" }
+	},
+	{
+		"id": 38,
+		"italian": { "word": "la lasagna" },
+		"english": { "word": "lasagna" },
+		"german": { "article": "die", "word": "Lasagne" }
+	},
+	{
+		"id": 39,
+		"italian": { "word": "la mamma" },
+		"english": { "word": "mom" },
+		"german": { "article": "die", "word": "Mama" }
+	},
+	{
+		"id": 40,
+		"italian": { "word": "Napoli" },
+		"english": { "word": "Naples" },
+		"german": { "article": null, "word": "Neapel" }
+	},
+	{
+		"id": 41,
+		"italian": { "word": "l'opera" },
+		"english": { "word": "opera" },
+		"german": { "article": "die", "word": "Oper" }
+	},
+	{
+		"id": 42,
+		"italian": { "word": "la pasta" },
+		"english": { "word": "pasta" },
+		"german": { "article": "die", "word": "Pasta" }
+	},
+	{
+		"id": 43,
+		"italian": { "word": "questo/a/i/e" },
+		"english": { "word": "this / these" },
+		"german": {
+			"article": null,
+			"word": "dieser / diese / dieses / diesen"
+		}
+	},
+	{
+		"id": 44,
+		"italian": { "word": "Roma" },
+		"english": { "word": "Rome" },
+		"german": { "article": null, "word": "Rom" }
+	},
+	{
+		"id": 45,
+		"italian": { "word": "gli spaghetti" },
+		"english": { "word": "spaghetti" },
+		"german": { "article": "die", "word": "Spaghetti" }
+	},
+	{
+		"id": 46,
+		"italian": { "word": "il tiramisù" },
+		"english": { "word": "tiramisu" },
+		"german": { "article": "das", "word": "Tiramisu" }
+	},
+	{
+		"id": 47,
+		"italian": { "word": "uno" },
+		"english": { "word": "one" },
+		"german": { "article": null, "word": "eins" }
+	},
+	{
+		"id": 48,
+		"italian": { "word": "la vespa" },
+		"english": { "word": "vespa scooter" },
+		"german": { "article": "die", "word": "Vespa" }
+	},
+	{
+		"id": 49,
+		"italian": { "word": "la zanzara" },
+		"english": { "word": "mosquito" },
+		"german": { "article": "die", "word": "Stechmücke" }
+	},
+	{
+		"id": 50,
+		"italian": { "word": "l'esempio" },
+		"english": { "word": "example" },
+		"german": { "article": "das", "word": "Beispiel" }
+	},
+	{
+		"id": 51,
+		"italian": { "word": "bravo" },
+		"english": { "word": "good" },
+		"german": { "article": null, "word": "gut" }
+	},
+	{
+		"id": 52,
+		"italian": { "word": "il cappuccino" },
+		"english": { "word": "cappuccino" },
+		"german": { "article": "der", "word": "Cappuccino" }
+	},
+	{
+		"id": 53,
+		"italian": { "word": "il maestro" },
+		"english": { "word": "teacher" },
+		"german": { "article": "der", "word": "Lehrer" }
+	},
+	{
+		"id": 54,
+		"italian": { "word": "bellissimo" },
+		"english": { "word": "very beautiful" },
+		"german": { "article": null, "word": "sehr schön" }
+	},
+	{
+		"id": 55,
+		"italian": { "word": "il gelato" },
+		"english": { "word": "ice cream" },
+		"german": { "article": "das", "word": "Eis" }
+	},
+	{
+		"id": 56,
+		"italian": { "word": "come si scrive?" },
+		"english": { "word": "how do you write it?" },
+		"german": { "article": null, "word": "wie schreibt man das?" }
+	},
+	{
+		"id": 57,
+		"italian": { "word": "come" },
+		"english": { "word": "how" },
+		"german": { "article": null, "word": "wie" }
+	},
+	{
+		"id": 58,
+		"italian": { "word": "si" },
+		"english": { "word": "one / you" },
+		"german": { "article": null, "word": "man" }
+	},
+	{
+		"id": 59,
+		"italian": { "word": "si scrive..." },
+		"english": { "word": "it is written..." },
+		"german": { "article": null, "word": "man schreibt..." }
+	},
+	{
+		"id": 60,
+		"italian": { "word": "sì" },
+		"english": { "word": "yes" },
+		"german": { "article": null, "word": "ja" }
+	},
+	{
+		"id": 61,
+		"italian": { "word": "no" },
+		"english": { "word": "no" },
+		"german": { "article": null, "word": "nein" }
+	},
+	{
+		"id": 62,
+		"italian": { "word": "da... a..." },
+		"english": { "word": "from ... to ..." },
+		"german": { "article": null, "word": "von ... bis ..." }
+	}
+]
