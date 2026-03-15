@@ -9,6 +9,7 @@ import {
 	Typography,
 	createTheme,
 } from '@mui/material';
+import vocabJson from './data/vocab.json';
 
 type VocabWord = {
 	italian: string;
@@ -16,14 +17,32 @@ type VocabWord = {
 	german: string;
 };
 
-const vocabWords: VocabWord[] = [
-	{ italian: 'Ciao', english: 'Hello', german: 'Hallo' },
-	{ italian: 'Grazie', english: 'Thank you', german: 'Danke' },
-	{ italian: 'Casa', english: 'House', german: 'Haus' },
-	{ italian: 'Amico', english: 'Friend', german: 'Freund' },
-	{ italian: 'Acqua', english: 'Water', german: 'Wasser' },
-	{ italian: 'Buongiorno', english: 'Good morning', german: 'Guten Morgen' },
-];
+type VocabJsonEntry = {
+	id: number;
+	italian: {
+		word: string;
+	};
+	english: {
+		word: string;
+	};
+	german: {
+		article: string | null;
+		word: string;
+	};
+};
+
+const formatGerman = (entry: VocabJsonEntry) => {
+	const article = entry.german.article?.trim();
+	return article ? `${article} ${entry.german.word}` : entry.german.word;
+};
+
+const vocabWords: VocabWord[] = (vocabJson as VocabJsonEntry[]).map(
+	(entry) => ({
+		italian: entry.italian.word,
+		english: entry.english.word,
+		german: formatGerman(entry),
+	}),
+);
 
 const pickRandomIndex = (length: number, exclude?: number) => {
 	if (length <= 1) {
